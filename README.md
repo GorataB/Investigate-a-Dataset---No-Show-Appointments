@@ -2,7 +2,7 @@
 Introductory project to Exploratory Data Analysis.
 
 ## Introduction and Data
-In this project, I will investigate the factors causing patients to not show up for their medical appointments in Brazil, using the 'Medical Appointment No Shows' dataset from Kaggle. For convenience purposes, I saved the CSV file as 'no_show.csv'. 
+In this project, I will investigate the factors causing patients to not show up for their medical appointments in Brazil, using the 'Medical Appointment No Shows' dataset from Kaggle. For convenience purposes, I saved the CSV file as ['no_show.csv'](no_show.csv). 
 
 I will be studying the influence of age and gender on appointment attendance. I will also show whether SMS notifications increase likelihood of attendance.
 
